@@ -1,1 +1,1 @@
-Basic gallery maker created using Visual Basic 6.0.
+Basic gallery maker created using Visual Basic 6.0. This program creates an HTML file for your pictures. It was intended to show the pictures you wanted to publish only without clicking the files one-by-one.
